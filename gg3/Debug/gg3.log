@@ -1,0 +1,7 @@
+﻿  gg3.cpp
+  Set.cpp
+  Vector.cpp
+  Создание кода...
+C:\Users\User\Desktop\gg3\gg3\Set.cpp(102): warning C4715: Set::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\gg3\gg3\Vector.cpp(78): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  gg3.vcxproj -> C:\Users\User\Desktop\gg3\Debug\gg3.exe
